@@ -84,7 +84,7 @@ export default function Unit7() {
           
           <div ref={notesRef} className="bg-white p-8 rounded-lg shadow-lg">
             <div className="text-center mb-8">
-              <h1 className="text-3xl font-bold text-blue-800">CBSE Class 12 Chemistry</h1>
+              <h1 className="text-3xl font-bold text-blue-800">CBSE Board Class 12 Chemistry</h1>
               <h2 className="text-xl font-semibold text-gray-700 mt-2">Unit 7: Alcohols, Phenols and Ethers - Complete Notes</h2>
             </div>
 
